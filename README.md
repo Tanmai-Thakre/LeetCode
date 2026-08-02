@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Tanmai-Thakre/LeetCode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Tanmai-Thakre/LeetCode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanmai-Thakre/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanmai-Thakre/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanmai-Thakre/LeetCode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanmai-Thakre/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanmai-Thakre/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
